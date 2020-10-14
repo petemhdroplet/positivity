@@ -8,13 +8,9 @@
     <link rel="stylesheet" href="./css/app.css" />
   </head>
   <body>
-    <noscript>
-      <strong
-        >We're sorry but this app doesn't work properly without JavaScript
-        enabled. Please enable it to continue.</strong
-      >
-    </noscript>
-    <div id="app"></div>
+    <div class="container">
+      <div id="app"></div>
+    </div>
     <script src="./js/app.js"></script>
   </body>
 </html>
