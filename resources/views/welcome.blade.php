@@ -7,10 +7,8 @@
     <title>Vue + Laravel Mix + Tailwind CSS setup</title>
     <link rel="stylesheet" href="./css/app.css" />
   </head>
-  <body>
-    <div class="container">
+  <body class="bg-green-200">
       <div id="app"></div>
-    </div>
     <script src="./js/app.js"></script>
   </body>
 </html>
